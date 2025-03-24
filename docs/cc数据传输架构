@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="第 1 页" id="j5rLerdDV_216AyRRJ6S">
+    <mxGraphModel dx="1532" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wUy5BGMrNfGD-dijAHD--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUy5BGMrNfGD-dijAHD--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="148" y="112" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--2" value="Modbus服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="84" y="112" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="212" y="112" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="194.6099999999999" y="280" as="sourcePoint" />
+            <mxPoint x="310" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="138" y="380" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="370" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUy5BGMrNfGD-dijAHD--12" target="wUy5BGMrNfGD-dijAHD--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUy5BGMrNfGD-dijAHD--12" target="wUy5BGMrNfGD-dijAHD--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="57.4" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="310.53" y="387.5" width="76.35" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUy5BGMrNfGD-dijAHD--23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="627.4000000000001" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUy5BGMrNfGD-dijAHD--23" target="wUy5BGMrNfGD-dijAHD--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="57.4" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--25" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_computer" vertex="1" parent="1">
+          <mxGeometry x="127.91" y="260" width="68.18" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--26" value="厂侧工控机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47.91" y="275" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--27" value="postgres数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--28" value="厂侧数据库服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--29" value="openGemini数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="288.7" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--30" value="国华侧数据库服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453.7" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--34" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="480.52" y="387.5" width="76.35" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--36" value="openGemini数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="wUy5BGMrNfGD-dijAHD--39" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;数据查询&lt;span style=&quot;background-color: initial;&quot;&gt;服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="315" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
